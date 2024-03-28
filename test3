@@ -1,0 +1,18 @@
+#!/bin/bash 
+ touch new_file.txt
+ mkdir new_directory
+ rm old_file.txt rm -rf old_directory
+ echo "Hello, world!" > message.txt
+ echo "Another message" >> message.txt
+ tar -czf archive.tar.gz files_to_archive/* tar -xf archive.tar.gz
+ chmod 644 file_with_permissions.txt
+ chown user:group file_with_owner.txt
+ ps aux | grep '[h]ttpd' hostname
+ cp source_file.txt destination_file.txt
+ cp -r source_directory/* destination_directory/
+ cat some_text_file.txt 
+ ls -l 
+ cd /path/to/new/directory
+ mv old_name.txt new_name.txt
+ ls -l/root/>ls-error.log > output_file.txt
+ ls -l/root/>ls-error.log >> output_file.txt
