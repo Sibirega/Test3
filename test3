@@ -16,3 +16,5 @@
  mv old_name.txt new_name.txt
  ls -l/root/>ls-error.log > output_file.txt
  ls -l/root/>ls-error.log >> output_file.txt
+ pwd
+
