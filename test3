@@ -17,4 +17,5 @@
  ls -l/root/>ls-error.log > output_file.txt
  ls -l/root/>ls-error.log >> output_file.txt
  pwd
+ cd new
 
